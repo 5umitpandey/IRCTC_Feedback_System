@@ -1,0 +1,75 @@
+   [Journey Completed]    
+           |                      
+           V
+[Send Notification] via [App/Email/SMS]
+           |                      
+           V
+[Click on Link] 
+           |
+           V
+[Choose Language]
+           |
+           V
+[Enter Train No (Authentication)]
+           |
+           V
+  [Open Feedback Form]
+           |
+           V
+[Display Journey Details]
+           |
+           V
+[Display User Details]
+           |
+           V
+[Provide Rating] (1-10 scale) for:
+           |- Washroom
+           |- Food
+           |- Cleaning
+           |- Electrical Appliances
+           |- Seat Material
+           |- Bedsheet/Blanket
+           |
+           V
+[Follow-Up Question: Provide Additional Feedback?]
+      /                  \
+    [Yes]                [No]
+     |                     |
+     V                     V
+[Ask Detailed Questions]   [Show Additional Feedback Box]
+     |                     |
+     V                     V
+[Submit Feedback]    [Submit Feedback]
+           |
+           V
+ [Show Summary of Ratings]
+           |
+           V
+[Option to Edit Ratings?]
+      /       \
+    [Yes]     [No]
+     |          |
+     V          V
+[Edit Ratings]   [Show Overall Ratings of Train]
+     |          |
+     V          V
+[Submit Feedback]  [Thank You Message + Provide IRCTC Points]
+           |
+           V
+[Store Data in Database]
+           |
+           V
+[Generate Rankings & Analytics]
+           |
+           V
+[Admin Dashboard]
+
+
+
+### Enhancements:
+- Mobile Optimization
+- User Authentication
+- Feedback Categories (e.g., Staff Behavior, WiFi Availability)
+- Real-Time Analytics Dashboard
+- Reminder System
+- Anonymous Feedback Option
