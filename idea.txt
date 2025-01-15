@@ -1,0 +1,29 @@
+i want to make a feedback system for irctc
+
+just like zomato/amazon asks us about the delivery person and food/product right after the delivery, i want to make the same
+irctc will send a notification if person has irctc app, a link via sms to the travellers phone, an email as well
+
+once the data is collected, i want to create a rankings of all trains based on multiple factors so this is also a feature of this feedback system
+
+now first i want to make a simple website which will open when i click that link
+
+that website will store data, have a good user friendly gui so that user can provide feedback for same
+the feedback page will first show the journey details the traveller had like 
+train name and no
+date and time
+both station
+
+user details like coach and seat no
+
+then it will ask rating from 1 to 10 about that particular coach's washroom , food , cleaning, electrical appliances, seat material, bedsheet blanket
+
+submit button
+
+once the user presses the submit button, it will show that ratings and ask user if he wants to edit it 
+
+also it will show the overall ratings of the train 
+
+
+
+
+now what do u think u can add in this whole plan , what do u think i can modify
