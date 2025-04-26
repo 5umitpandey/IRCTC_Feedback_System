@@ -10,16 +10,16 @@
 [Choose Language]
            |
            V
-[Enter Train No (Authentication)]
-           |
-           V
-  [Open Feedback Form]
+[Enter PNR No (Authentication)]
            |
            V
 [Display Journey Details]
            |
            V
 [Display User Details]
+           |
+           V
+  [Open Feedback Form]
            |
            V
 [Provide Rating] (1-10 scale) for:
@@ -50,7 +50,7 @@
     [Yes]     [No]
      |          |
      V          V
-[Edit Ratings]   [Show Overall Ratings of Train]
+[Edit Ratings]   [Show Overall Ratings of the selected Train]
      |          |
      V          V
 [Submit Feedback]  [Thank You Message + Provide IRCTC Points]
